@@ -1,0 +1,17 @@
+{
+  "name": "@deltasnare/timer",
+  "version": "1.0.0",
+  "description": "Sychronizable, stable timer",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Snow <balintbence97@gmail.com>",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "present": "^1.0.0"
+  }
+}
