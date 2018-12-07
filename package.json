@@ -13,5 +13,14 @@
   "license": "LGPL-3.0",
   "dependencies": {
     "present": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3nsn0w/deltasnare-timer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/b3nsn0w/deltasnare-timer/issues"
+  },
+  "homepage": "https://github.com/b3nsn0w/deltasnare-timer#readme"
 }
