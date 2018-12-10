@@ -1,6 +1,6 @@
 {
   "name": "@deltasnare/timer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sychronizable, stable timer",
   "main": "lib/index.js",
   "directories": {
